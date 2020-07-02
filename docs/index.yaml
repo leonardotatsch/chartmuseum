@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-07-02T17:38:08.16038107+01:00"
+    description: A Helm chart for Kubernetes
+    digest: d88274bc42156a1ea7c45e6468bc3b0cdc33fde446d74d8f0aa88b784fb290ae
+    name: mychart
+    urls:
+    - https://leonardotatsch.github.io/chartmuseum/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-02T17:38:08.159963362+01:00"
